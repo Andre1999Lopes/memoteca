@@ -2,7 +2,7 @@
 
 Projeto desenvolvido durante a Formação Angular da Alura.
 
-O projeto é composto do front-end desenvolvido com o framework Angular e o back-end, feito com o pacote json-server.
+O projeto é composto pelo front-end, desenvolvido com o framework Angular, e pelo back-end, feito com o pacote json-server.
 
 Para iniciar o projeto, é necessário primeiro iniciar o back-end entrando na pasta `backend` e utilizando o comando `npm start`.
 
